@@ -1,1 +1,3 @@
 # DeepLearning-Based-SideChannelAnalysis
+
+The project investigates the use of NN architectures originally proposed for time series and Natural Language Processing (NLP) for Side-Channel Analysis (SCA). This project explores two main models; one based on Long Short-Term Memory (LSTM) and the other based on Transformers using ASCAD dataset to disclose the secret key of an Advanced Encryption Standard (AES) implementation and finds that these models perform better than a fully-connected NN architecture.
